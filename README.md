@@ -6,6 +6,8 @@ mock catalogs (Uchuu) and DESI observations.
 - Convert DESI angular density to comoving number density
 - Compare mock and DESI results
 - Compare results without target selection
+## Thesis
+- ELG_target_selection_thesis.pdf
 ## Requirements
 - Python 3.10
 - numpy
