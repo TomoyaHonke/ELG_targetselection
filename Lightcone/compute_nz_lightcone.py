@@ -9,7 +9,7 @@ cosmology.setCosmology('planck18')
 
 # Path settings (HPC environment)
 # Update this path depending on your local environment.
-BASE = Path("/data/PFS/Uchuu_nu2GC_DESI/lc")
+BASE = Path("****")# Parh settings
 
 SNAPS = range(21, 49)
 survey_area = [1048.346611175581]#最初複数のareaで試していたものの名残

@@ -9,7 +9,7 @@ cosmology.setCosmology('planck18')
 
 # Path settings (HPC environment)
 # Update this path depending on your local environment.
-BASE = Path("/data/PFS/Uchuu_nu2GC_DESI_v2/box")
+BASE = Path("****")
 
 SNAPS = range(21, 43)
 L_box = 2000.0                                
