@@ -33,4 +33,5 @@ The following file is required:
 Stored locally (not included)
 
 ## Notes
-- Update file paths (DATA_DIR, BASE) for your environment
+### Data path
+Please replace "****" with your local data directory.
